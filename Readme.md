@@ -222,8 +222,7 @@
 
 `Руководство по Flexbox`⇒ [*How To Get Started With CSS Flexbox*](https://paulund.co.uk/css-flexbox) 
 
-`Руководство по Flexbox`⇒ [*A Visual Guide to CSS3 Flexbox Properties*]
-(https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) 
+`Руководство по Flexbox`⇒ [*A Visual Guide to CSS3 Flexbox Properties*](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) 
 
 `Руководство по Flexbox`⇒ [*Flexible Box Layout*](https://tympanus.net/codrops/css_reference/flexbox/) 
 
